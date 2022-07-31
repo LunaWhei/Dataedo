@@ -1,0 +1,12 @@
+﻿Wprowadzone zmiany
+
+- usunięcie zbędnych usingów, przeniesienie poza namespace
+- usunięcie zbędnych pól
+- zamiana for na foreach
+- dodanie try catcha - potem może jakieś exception
+- poprawnienie błędów, np: usunięcie pustego elementu na początku listy
+- przeniesienie klas do nowych plików aby utrzymać kod czystym - znajdują się w folderze Models
+- pola inline
+- usunięcie zbędnych spacji
+- zmiana nazw pól na camelCase - keep it clean.
+- poprawienie nazwy pliku z dataa na data

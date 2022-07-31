@@ -44,10 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataReader.cs" />
+    <Compile Include="Models\ImportedObject.cs" />
+    <Compile Include="Models\ImportedObjectBaseClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Zmiany.txt" />
     <None Include="App.config" />
     <Content Include="data.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
